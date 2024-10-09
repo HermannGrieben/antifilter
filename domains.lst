@@ -26,6 +26,10 @@ discord-activities.com
 discordactivities.com
 discordsays.com
 discordstatus.com
+.discord.gg
+*.discord.gg
+.discord.
+*.discord.*
 antifilter.network
 antifilter.download
 ntc.party
